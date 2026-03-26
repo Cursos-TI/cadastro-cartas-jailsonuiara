@@ -6,7 +6,7 @@
 
 int main() {
   // Área para definição das variáveis para armazenar as propriedades das cidades
-
+int n, total;
    printf ("ola mundo, no codespace");
 
   // Área para exibição dos dados da cidade
