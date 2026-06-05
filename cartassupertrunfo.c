@@ -90,5 +90,8 @@ int main() {
     printf("Renda Per Capita: %.2f\n", percapita2);
     printf("-------------------------------------\n");
 
+    #include <stdio.h>
+ 
+
     return 0;
 }
